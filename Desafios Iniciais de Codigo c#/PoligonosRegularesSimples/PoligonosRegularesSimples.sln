@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoligonosRegularesSimples", "PoligonosRegularesSimples\PoligonosRegularesSimples.csproj", "{B74C3A5C-1501-48E6-94E1-611EF15C9CEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B74C3A5C-1501-48E6-94E1-611EF15C9CEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B74C3A5C-1501-48E6-94E1-611EF15C9CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B74C3A5C-1501-48E6-94E1-611EF15C9CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B74C3A5C-1501-48E6-94E1-611EF15C9CEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5126ED4F-7545-4FB9-8BDD-CD0A533B8C59}
+	EndGlobalSection
+EndGlobal
