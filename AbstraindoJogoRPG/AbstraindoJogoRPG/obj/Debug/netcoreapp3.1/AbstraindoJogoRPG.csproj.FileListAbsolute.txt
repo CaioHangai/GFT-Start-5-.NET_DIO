@@ -1,0 +1,14 @@
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootCamp GFT\AbstraindoJogoRPG\AbstraindoJogoRPG\obj\Debug\netcoreapp3.1\AbstraindoJogoRPG.csproj.AssemblyReference.cache
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootCamp GFT\AbstraindoJogoRPG\AbstraindoJogoRPG\obj\Debug\netcoreapp3.1\AbstraindoJogoRPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootCamp GFT\AbstraindoJogoRPG\AbstraindoJogoRPG\obj\Debug\netcoreapp3.1\AbstraindoJogoRPG.AssemblyInfoInputs.cache
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootCamp GFT\AbstraindoJogoRPG\AbstraindoJogoRPG\obj\Debug\netcoreapp3.1\AbstraindoJogoRPG.AssemblyInfo.cs
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootCamp GFT\AbstraindoJogoRPG\AbstraindoJogoRPG\obj\Debug\netcoreapp3.1\AbstraindoJogoRPG.csproj.CoreCompileInputs.cache
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootCamp GFT\AbstraindoJogoRPG\AbstraindoJogoRPG\bin\Debug\netcoreapp3.1\AbstraindoJogoRPG.exe
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootCamp GFT\AbstraindoJogoRPG\AbstraindoJogoRPG\bin\Debug\netcoreapp3.1\AbstraindoJogoRPG.deps.json
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootCamp GFT\AbstraindoJogoRPG\AbstraindoJogoRPG\bin\Debug\netcoreapp3.1\AbstraindoJogoRPG.runtimeconfig.json
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootCamp GFT\AbstraindoJogoRPG\AbstraindoJogoRPG\bin\Debug\netcoreapp3.1\AbstraindoJogoRPG.runtimeconfig.dev.json
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootCamp GFT\AbstraindoJogoRPG\AbstraindoJogoRPG\bin\Debug\netcoreapp3.1\AbstraindoJogoRPG.dll
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootCamp GFT\AbstraindoJogoRPG\AbstraindoJogoRPG\bin\Debug\netcoreapp3.1\AbstraindoJogoRPG.pdb
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootCamp GFT\AbstraindoJogoRPG\AbstraindoJogoRPG\obj\Debug\netcoreapp3.1\AbstraindoJogoRPG.dll
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootCamp GFT\AbstraindoJogoRPG\AbstraindoJogoRPG\obj\Debug\netcoreapp3.1\AbstraindoJogoRPG.pdb
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootCamp GFT\AbstraindoJogoRPG\AbstraindoJogoRPG\obj\Debug\netcoreapp3.1\AbstraindoJogoRPG.genruntimeconfig.cache
